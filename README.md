@@ -36,6 +36,6 @@ A complete list for test centres for coronavirus, along with the exact location 
 
 #### Note:-Currently we are targeting all the districts of Uttrakhand.
 
-## SCREENSHOT OF APP
+## FEW SCREENSHOT OF APP
 
 ![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(5).jpg) ![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(4).jpg) ![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(2).jpg) ![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(3).jpg) ![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(1).jpg)
