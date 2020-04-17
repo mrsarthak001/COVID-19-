@@ -32,7 +32,9 @@ A complete list for test centres for coronavirus, along with the exact location 
 
 10.E-Pass generator:- If anyone is in emergency can request for the E-Pass from the government.
  
-11.Home delivery of items: In this feature any shop owner who does home delivery can add his shop and others in that area can order from it.
+11.Home delivery of items: In this feature any shop owner who does home delivery can add his shop and others in that area can order from it
+
+#### Note:-Currently we are targeting all the districts the Uttrakhand.
 
 ## SCREENSHOT OF APP
 
