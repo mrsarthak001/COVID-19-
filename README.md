@@ -28,3 +28,10 @@ Central helpline numbers and helpline numbers for states and union territories h
 8. Test centres for Coronavirus with Direction.
 A complete list for test centres for coronavirus, along with the exact location and directions have been provided
  
+## SCREENSHOT OF APP
+
+![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(5).jpeg)
+![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(3).jpeg)
+![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(1).jpeg)
+![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(2).jpeg)
+![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(4).jpeg)
