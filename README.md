@@ -4,6 +4,7 @@
 
 ### This is an Android app which have various feature as Mention.
 
+
 1. Details of essential nearby places:-
 The user ratings, Currently open and close, images, directions to reach the place and the map view are displayed (UPTO 5 KM).
 
@@ -35,6 +36,8 @@ A complete list for test centres for coronavirus, along with the exact location 
 11.Home delivery of items: In this feature any shop owner who does home delivery can add his shop and others in that area can order from it
 
 #### Note:-Currently we are targeting all the districts of Uttrakhand.
+
+#### [Install APK from Here (https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/DotEpid.apk)
 
 ## FEW SCREENSHOT OF APP
 
