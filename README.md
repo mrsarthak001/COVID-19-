@@ -27,7 +27,13 @@ Central helpline numbers and helpline numbers for states and union territories h
 
 8. Test centres for Coronavirus with Direction.
 A complete list for test centres for coronavirus, along with the exact location and directions have been provided
+
+9. Food Request:- This is a Unique Feature to provide food to poor people. Those who want to donate the food they can donate from our APP.
+
+10.E-Pass generator:- If anyone is in emergency can request for the E-Pass from the government.
  
+11.Home delivery of items: In this feature any shop owner who does home delivery can add his shop and others in that area can order from it.
+
 ## SCREENSHOT OF APP
 
 ![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(5).jpg) ![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(4).jpg) ![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(2).jpg) ![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(3).jpg) ![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(1).jpg)
