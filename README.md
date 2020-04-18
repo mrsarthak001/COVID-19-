@@ -1,4 +1,4 @@
-# IncubateIND-Hackathon
+# COVID-19 Hackathon
 
 # Team:- DOT_QUESTIONMARK ( .? )
 
