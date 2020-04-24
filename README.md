@@ -21,7 +21,8 @@ HOME DELIVERY:
 This is a time when everyone will have to visit the shops to buy certain essential commodities. However, this will prevent social distancing from taking place and be quite risky. Thus, instead of every person visiting the shop individually, the demand of the users can be communicated to the shopkeeper who could deliver the contents at their respective places. The needs of the people along with social distancing can be fulfilled in this manner.
 On clicking on this feature, we will be directed to a page wherein we can enter our district. After entering the district, and clicking on the go button beside it, all the shops that have been registered till now in that region will be displayed. An option “add your shop here” is displayed at the bottom of the page. On clicking on it, the shopkeepers can can add their shop details along with a small description which the users can check and order accordingly. Here, only the districts of Uttarakhand will be displayed. Through this, they can place an order in any shop displayed according to their convenience.
 
-
+Volunteer:
+You Can Be A volunteer to help in this pandemic. You Can share this app and Help Other to fight against this pandemic
 
 NEARBY:
 During a pandemic when social distancing is very essential, it is important that we are aware of all the places around us that can be visited.
