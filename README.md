@@ -60,7 +60,7 @@ This feature displays a series of most frequently asked questions. These questio
 
 #### Install APK from Here https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/DotEpid.apk
 
-#### APP DEMO VIDEO (https://youtu.be/ChyNw-E0IQghttps://www.youtube.com/watch?v=sefemhvOdP0)
+#### APP DEMO VIDEO (https://www.youtube.com/watch?v=sefemhvOdP0)
 ## FEW SCREENSHOT OF APP
 
 ![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(5).jpg) ![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(4).jpg) ![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(2).jpg) ![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(3).jpg) ![ SS](https://github.com/mrsarthak001/IncubateIND-Hackathon/blob/master/App%20Screenshot/1%20(1).jpg)
